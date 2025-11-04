@@ -24,10 +24,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagmohan-rai1/">
+  <a href="https://www.linkedin.com/in/Ashitosh-Makode/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <a href="https://Ashitoshimakode1.github.io/New-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ashitoshmakode1@gmail.com">
