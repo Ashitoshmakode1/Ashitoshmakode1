@@ -47,14 +47,6 @@
 ---
 
 ## 🧰 Tech Toolbox
-
-### 🏗️ Core Computer Science
-<p>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
-</p>
-
 ### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -98,7 +90,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+ // <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />//
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
 </p>
 
