@@ -141,7 +141,7 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
   - Integration with **REST APIs** for real-time updates
   - Built for scalability and smooth user experience
 
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
+- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS ·
 
 
 
